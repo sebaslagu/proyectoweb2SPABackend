@@ -285,38 +285,13 @@ Características:
 
 El comando `load_initial_data` carga las siguientes tareas:
 
-1. **Comprar leche** - Media prioridad, vence 2025-12-01
-2. **Llamar al médico** - Alta prioridad, vence 2025-11-28
-3. **Enviar informe** - Alta prioridad, completada, venció 2025-10-10
-4. **Leer 30 minutos** - Baja prioridad, sin fecha de vencimiento
-5. **Pagar servicios** - Media prioridad, vence 2025-11-30
+1. **Comprar leche** 
+2. **Llamar al médico**
+3. **Enviar informe** 
+4. **Leer 30 minutos** 
+5. **Pagar servicios** 
 
-## 🚀 Próximos Pasos (Opcional)
 
-- [ ] Implementar autenticación JWT con `djangorestframework-simplejwt`
-- [ ] Agregar documentación Swagger con `drf-spectacular`
-- [ ] Configurar Docker y docker-compose
-- [ ] Agregar tests de integración adicionales
-- [ ] Implementar caché con Redis
-- [ ] Configurar CI/CD
-
-## 🤝 Contribución
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para fines educativos.
-
-## 👤 Autor
-
-Sebastián Laguado - [sebaslagu](https://github.com/sebaslagu)
 
 ## 📞 Soporte
 
