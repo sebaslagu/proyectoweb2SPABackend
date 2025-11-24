@@ -290,10 +290,3 @@ El comando `load_initial_data` carga las siguientes tareas:
 3. **Enviar informe** 
 4. **Leer 30 minutos** 
 5. **Pagar servicios** 
-
-
-
-## 📞 Soporte
-
-Si encuentras algún problema o tienes alguna pregunta, por favor abre un issue en el repositorio.
-
